@@ -1,3 +1,9 @@
+spring:
+  application:
+    name: RATING-SERVICE
+
+
+
 eureka:
   instance:
     prefer-ip-address: true
